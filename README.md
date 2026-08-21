@@ -69,6 +69,6 @@ Each of these was diagnosed at the model/file level (rather than by empirically 
 
 ## References
 
-4. UKF-based SOC estimation with a 2nd-order Thevenin ECM for battery pack equalization: [ETASR](https://etasr.com/index.php/ETASR/article/view/3111)
-5. Modified UKF with improved parameter identification for 2nd-order ECM: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1452398124001159)
-6. Strong Tracking UKF with multiple suboptimal fading factors, 2nd-order RC ECM, validated on ECE15/UDDS: [Springer](https://link.springer.com/article/10.1007/s12239-024-00093-9)
+1. UKF-based SOC estimation with a 2nd-order Thevenin ECM for battery pack equalization: [ETASR](https://etasr.com/index.php/ETASR/article/view/3111)
+2. Modified UKF with improved parameter identification for 2nd-order ECM: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1452398124001159)
+3. Strong Tracking UKF with multiple suboptimal fading factors, 2nd-order RC ECM, validated on ECE15/UDDS: [Springer](https://link.springer.com/article/10.1007/s12239-024-00093-9)
